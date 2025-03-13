@@ -1,4 +1,4 @@
-# Proxmox-Private-Cloud-
+# Proxmox-Private-Cloud
 Self-hosted private cloud for the foundation of future IT/Security projects
 
 # 🖥️ Proxmox Private Cloud on Repurposed Hardware ☁️
